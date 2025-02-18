@@ -2,7 +2,7 @@ package begin;
 
 import java.util.Scanner;
 
-public class begin23 {
+public class Begin23 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("a= ");

@@ -2,7 +2,7 @@ package begin;
 
 import java.util.Scanner;
 
-public class begin5 {
+public class Begin05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Kubning tamonini kirgizing: a= ");
