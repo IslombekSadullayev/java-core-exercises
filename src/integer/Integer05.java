@@ -1,6 +1,6 @@
 package java;
 import java.util.Scanner;
-public class integer5 {
+public class Integer05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("A kesmani uzunligini kirgizing: ");

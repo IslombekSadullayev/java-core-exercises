@@ -1,8 +1,8 @@
-package Boolean;
+package booleans;
 
 import java.util.Scanner;
 
-public class boolean2 {
+public class Boolean02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Butun sonni kirgizing : ");
