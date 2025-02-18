@@ -1,8 +1,8 @@
-package Boolean;
+package booleans;
 
 import java.util.Scanner;
 
-public class boolean1 {
+public class Boolean01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number: ");

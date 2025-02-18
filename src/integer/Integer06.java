@@ -1,9 +1,8 @@
-package Integer;
+package integer;
 
-import java.net.SocketOption;
 import java.util.Scanner;
 
-public class integer6 {
+public class Integer06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ikki xonali son kirgiizng: num=");

@@ -1,8 +1,8 @@
-package Integer;
+package integer;
 
 import java.util.Scanner;
 
-public class integer8 {
+public class Integer08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ikki xonali son kirgizing: ");
